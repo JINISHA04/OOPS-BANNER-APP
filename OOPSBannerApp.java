@@ -1,17 +1,21 @@
+
 /**
  * OOPSBannerApp
- * 
- * Prints the literal text "OOPS" to the console.
- * 
- * @author JINISHA
- * @version 1.0
+ * Prints OOPS in large banner format
+ * @author jinisha
+ * @version 2.0
  */
 public class OOPSBannerApp {
 
-    /**
-     * Main method - Entry point of the application
-     */
     public static void main(String[] args) {
-        System.out.println("OOPS");
+
+        System.out.println(" *****   *****   *****   ***** ");
+        System.out.println("*     * *     * *     * *      ");
+        System.out.println("*     * *     * *     * *      ");
+        System.out.println("*     * *     * *****   *****  ");
+        System.out.println("*     * *     * *            * ");
+        System.out.println("*     * *     * *            * ");
+        System.out.println(" *****   *****  *       ****** ");
+
     }
 }
